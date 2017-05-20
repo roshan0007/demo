@@ -4,6 +4,6 @@ this is a read me fileee
 
 3rd line !!!
 
-isko maine badla he ky kar loge?
+isko maine badla he ky kar loge? 
 
- Ye to jaan buj ke problem karo
+Ye ab problem create karega dekhna!
