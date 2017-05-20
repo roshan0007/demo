@@ -6,4 +6,4 @@ this is a read me fileee
 
 isko maine badla he ky kar loge? 
 
-Ye ab problem create karega dekhna!
+isko modify kiya he ab dekhu kya hota he, statshing sikhne ke liye
